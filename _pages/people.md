@@ -6,6 +6,9 @@ description:
 nav: true
 ---
 
+##### Lead
+- [Pekka Marttinen](https://users.ics.aalto.fi/~pemartti/)
+
 ##### Postdocs
 
 - Santosh Hiremath (jointly with Hiroshi Mamitsuka)
@@ -14,9 +17,9 @@ nav: true
 
 
 ##### Doctoral Students
-- Tianyu Cui (jointly with [PML](https://research.cs.aalto.fi/pml/) group)
-- Yogesh Kumar
-- Shaoxiong Ji
+- [Tianyu Cui](https://tycui.github.io/) (jointly with [PML](https://research.cs.aalto.fi/pml/) group)
+- [Yogesh Kumar](https://ykumards.github.io/demic-homepage/)
+- [Shaoxiong Ji](http://shaoxiong.ml/)
 - Onur Poyraz
 - Caglar Hizli
 - Nicola Dainese (jointly with the [Deep Learning](https://research.cs.aalto.fi/bayes/index.shtml) group)
