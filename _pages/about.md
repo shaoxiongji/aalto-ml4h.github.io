@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pekka_photo.jpg
   address: >
     <p>Room A317, Konemiehentie 2</p>
     <p>Espoo, Finland </p>
