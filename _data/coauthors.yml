@@ -10,9 +10,6 @@
   - firstname: ["Shaoxiong"]
     url: https://shaoxiongji.github.io/
 
-"Bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Kumar":
+  - firstname: ["Yogesh", "Y."]
+    url: https://ykumards.github.io
