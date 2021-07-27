@@ -13,7 +13,7 @@ nav: true
 
 - Santosh Hiremath (jointly with Hiroshi Mamitsuka)
 - Prayag Tiwari
-- Vishnu Raj
+- [Vishnu Raj](https://v-i-s-h.github.io/)
 
 
 ##### Doctoral Students
